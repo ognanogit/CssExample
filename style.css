@@ -1,0 +1,14 @@
+.heading {
+    color: rgb(52, 8, 94);
+}
+#about {
+    color: darkslateblue;
+}
+
+section {
+    background-color: darkviolet;
+}
+
+* {
+    font-family: cursive;
+}
